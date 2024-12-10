@@ -1,11 +1,14 @@
 <h1 align="center">🚴‍♂️ Bike Company Sales Analysis Dashboard 🚴‍♀️</h1>
 
+![Bike Company Sales Analysis Cover Photo_1](https://github.com/user-attachments/assets/a8290dc0-daaa-490a-bc38-840da17e72d7)
+
+
 <p align="center">
   📊 <strong>Interactive Dashboard built in Power BI</strong> to analyze and visualize the sales performance of a Bike Company from 2020 to 2022.  
   Gain insights into revenue, customer trends, product performance, and regional sales in a dynamic and user-friendly interface!
 </p>
 
----
+
 
 ## 🌟 Project Overview  
 This project is a comprehensive **Bike Sales Analysis** covering:  
