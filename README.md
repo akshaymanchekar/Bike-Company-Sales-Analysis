@@ -18,7 +18,7 @@ This project is a comprehensive **Bike Sales Analysis** covering:
 
 The dashboard empowers decision-making by providing insights into sales trends, customer behavior, and regional performance.  
 
----
+<br>
 
 ## 📂 Data Overview  
 
@@ -33,7 +33,7 @@ The dashboard empowers decision-making by providing insights into sales trends, 
 | **Sales Data**                | 56,046 rows of transactions                                               |
 | **Territory Lookup**          | 10 regions: Northwest, Northeast, Central, Southwest, Southeast, Canada, France, Germany, Australia, United Kingdom |
 
----
+<br>
 
 ## 🎨 Dashboard Pages and Features  
 
@@ -77,7 +77,7 @@ The dashboard empowers decision-making by providing insights into sales trends, 
   - Orders by Income Level  
   - Orders by Occupation  
 
----
+<br>
 
 ## 💡 Key Insights  
 - **Revenue Peaks**: Sales showed seasonal trends with peak revenue during Q4 each year.  
@@ -86,14 +86,14 @@ The dashboard empowers decision-making by providing insights into sales trends, 
 - **Regional Trends**: The Northwest region led in the number of orders, while Australia showed strong growth in 2022.  
 - **Product Returns**: Clothing items had a higher return rate compared to other categories.  
 
----
+<br>
 
 ## 🛠️ Tools & Technologies  
 - **Power BI**: For creating the interactive dashboard.  
 - **SQL**: For pre-processing and transforming data.  
 - **Excel**: For initial data exploration and cleaning.  
 
----
+<br>
 
 ## 🏆 Challenges & Solutions  
 ### Challenge 1: Handling Large Data  
@@ -108,13 +108,14 @@ Creating a seamless experience for viewing product-specific data.
 Ensuring that targets for revenue, profit, and orders were meaningful.  
 **Solution**: Calculated realistic targets using historical data averages.  
 
----
+<br>
 
 ## 📸 Dashboard Screenshot  
 ![Bike Company Sales Analysis_SS_1](https://github.com/user-attachments/assets/6109ecb4-df95-4cd0-a061-5d0d037e1f91)
 ![Bike Company Sales Analysis_SS_2](https://github.com/user-attachments/assets/1b858c16-3261-4b11-b1bb-f3859af4225e)
 ![Bike Company Sales Analysis_SS_3](https://github.com/user-attachments/assets/f0dde585-ae32-49df-b6d3-fdb4c4a145b7)
 
+<br>
 
 <p align="center"> <a href="mailto:akshay.manchekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/akshaymanchekar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.kaggle.com/akshaymanchekar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://www.hackerrank.com/akshay_mancheka1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a> </p>
 
